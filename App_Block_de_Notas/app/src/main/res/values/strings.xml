@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="title_activity_notas">NotasActivity</string>
+    <string name="title_home">INICIO</string>
+    <string name="title_dashboard">TODOS</string>
+    <string name="title_notifications">NOTIFICACIONES</string>
+</resources>
